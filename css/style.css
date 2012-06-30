@@ -1,0 +1,21 @@
+/* 
+    Document   : style
+    Created on : 23/01/2012, 09:43:52
+    Author     : Fernando Moreira - http://fernandomoreiraweb.com/
+*/
+
+.clear { clear: both; }
+
+.canvas { float: left; text-align: center; }
+canvas { 
+    margin: 20px;
+    -moz-box-shadow: 0px  0px 15px #565656;
+    -webkit-box-shadow: 0px  0px 15px #565656;
+    box-shadow: 0px 0px 15px #565656;
+}
+canvas:hover { 
+    cursor: pointer;
+    -moz-box-shadow: 0px  0px 5px #333;
+    -webkit-box-shadow: 0px  0px 5px #333;
+    box-shadow: 0px 0px 5px #333;
+}
