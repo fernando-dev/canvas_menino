@@ -1,5 +1,5 @@
 # canvas
 
-[Preview](http://github.nandomoreira.me/canvas_menino/)
+[Preview](http://nando-experiments.github.io/canvas-menino/)
 
 Enjoy! 
